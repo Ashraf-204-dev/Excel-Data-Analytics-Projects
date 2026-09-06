@@ -3,9 +3,9 @@ This project is an interactive Sales Performance Dashboard developed using Micro
 The project demonstrates how Excel can be used for data analysis, data organization, KPI tracking, and interactive business reporting.
 </br>
 <h5>DATA SET:</h5>
-<a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Sales%20Dashboard%20Project.xlsx"> View Data Set</a>
+<a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Sales_Analysis/Sales_Dataset.xlsx"> View Data Set</a>
 </br>
-<h3>Dataset :</h3>
+<h3>Dataset INFO:</h3>
 The dataset contains sales information for multiple sales executives: </br>
 </br>
 Emp Code -	Unique employee identification code</br>
@@ -45,5 +45,5 @@ Regional Performance</br>
 Daily Sales
 </br></br>
 DASH BOARD :
-<a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Screenshot%202026-09-06%20192549.png"> View Dashboard </a>
+<a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Sales_Analysis/Screenshot%202026-09-06%20192549.png"> View Dashboard </a>
 </br></br>
