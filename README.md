@@ -3,39 +3,39 @@ This project is an interactive Sales Performance Dashboard developed using Micro
 The project demonstrates how Excel can be used for data analysis, data organization, KPI tracking, and interactive business reporting.
 </br>
 <h3>Dataset :</h3>
-The dataset contains sales information for multiple sales executives 
-Emp Code -	Unique employee identification code
-Sales - Executive	Name of the sales executive
-Region -	Region associated with the employee
-Day 1 – Day 5 -	Daily sales performance
-Total Sales	- Total sales generated
+The dataset contains sales information for multiple sales executives </br>
+Emp Code -	Unique employee identification code</br>
+Sales - Executive	Name of the sales executive</br>
+Region -	Region associated with the employee</br>
+Day 1 – Day 5 -	Daily sales performance</br>
+Total Sales	- Total sales generated</br>
 Target	- Assigned sales target
 </br>
 <h3>Objectives :</h3>
-Analyze the sales performance of individual sales executives.
-Compare total sales with assigned sales targets.
-Identify high-performing and low-performing sales executives.
-Analyze sales performance across different regions.
-Track daily sales performance.
-Calculate the percentage of target achieved.
+Analyze the sales performance of individual sales executives.</br>
+Compare total sales with assigned sales targets.</br>
+Identify high-performing and low-performing sales executives.</br>
+Analyze sales performance across different regions.</br>
+Track daily sales performance.</br>
+Calculate the percentage of target achieved.</br>
 Present important business insights through an interactive Excel dashboard.
 </br>
 <h3>Tools & Technologies :</h3>
-Microsoft Excel
-Excel Formulas
-Pivot Tables
-Pivot Charts
-Data Filtering
-Data Analysis
-Dashboard Design
-KPI Analysis
+Microsoft Excel</br>
+Excel Formulas</br>
+Pivot Tables</br>
+Pivot Charts</br>
+Data Filtering</br>
+Data Analysis</br>
+Dashboard Design</br>
+KPI Analysis</br>
 Data Visualization
 </br>
 <hr> Key KPIs :</hr>
-The dashboard focuses on important sales performance indicators such as
-Total Sales
-Sales Target
-Target Achievement %
-Sales Executive Performance
-Regional Performance
+The dashboard focuses on important sales performance indicators such as</br>
+Total Sales</br>
+Sales Target</br>
+Target Achievement %</br>
+Sales Executive Performance</br>
+Regional Performance</br>
 Daily Sales
