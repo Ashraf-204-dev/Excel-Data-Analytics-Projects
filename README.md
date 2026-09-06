@@ -3,7 +3,7 @@ This project is an interactive Sales Performance Dashboard developed using Micro
 The project demonstrates how Excel can be used for data analysis, data organization, KPI tracking, and interactive business reporting.
 </br>
 <h3>Dataset :</h3>
-The dataset contains sales information for multiple sales executives </br>
+The dataset contains sales information for multiple sales executives: </br>
 Emp Code -	Unique employee identification code</br>
 Sales - Executive	Name of the sales executive</br>
 Region -	Region associated with the employee</br>
