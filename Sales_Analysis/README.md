@@ -1,4 +1,4 @@
-h1>Project Description :</h1>
+<h1>Project Description :</h1>
 This project is an interactive Sales Performance Dashboard developed using Microsoft Excel. The dashboard analyzes sales data of multiple sales executives across different regions and provides a clear overview of their sales performance against assigned targets.
 The project demonstrates how Excel can be used for data analysis, data organization, KPI tracking, and interactive business reporting.
 </br>
