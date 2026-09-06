@@ -5,8 +5,10 @@ The project demonstrates how Excel can be used for data analysis, data organizat
 <h3>Dataset :</h3>
 The dataset contains sales information for multiple sales executives: </br>
 </br>
-<a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Sales%20Dashboard%20Project.xlsx"> View Data Set</a>
 </br>
+<h5>DATA SET:</h5>
+<a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Sales%20Dashboard%20Project.xlsx"> View Data Set</a>
+</br></br>
 Emp Code -	Unique employee identification code</br>
 Sales - Executive	Name of the sales executive</br>
 Region -	Region associated with the employee</br>
@@ -42,5 +44,7 @@ Target Achievement %</br>
 Sales Executive Performance</br>
 Regional Performance</br>
 Daily Sales
-</br>
+</br></br>
+DASH BOARD :
 <a href="https://github.com/Ashraf-204-dev/Excel-Data-Analytics-Projects/blob/main/Screenshot%202026-09-06%20192549.png"> View Dashboard </a>
+</br></br>
